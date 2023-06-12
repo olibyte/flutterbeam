@@ -21,7 +21,7 @@ export default function WaveCta() {
       </svg>
       <CtaWrapper>
         <Container>
-          <Title>Discover how Flutterbeam`&apos;`s innovative e-learning solutions can transform your learning experience.</Title>
+          <Title>Discover how Flutterbeam&apos;s innovative e-learning solutions can transform your learning experience.</Title>
           <CustomButtonGroup>
             <Button onClick={() => setIsModalOpened(true)}>
               Subscribe to the newsletter <span>&rarr;</span>
