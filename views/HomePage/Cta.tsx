@@ -13,11 +13,10 @@ export default function Cta() {
     <CtaWrapper>
       <Container>
         <Stack>
-          <OverTitle>Lorem ipsum dolor sit amet</OverTitle>
-          <SectionTitle>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus delectus?</SectionTitle>
+          <OverTitle>The Future</OverTitle>
+          <SectionTitle>Our mission</SectionTitle>
           <Description>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda beatae accusamus deleniti nihil quas tempora numquam, vitae
-            culpa.
+          Our commitment to delivering exceptional user experiences and personalized learning journeys garnered recognition within the industry, enabling us to forge strong partnerships with Department of Education Victoria, University of Melbourne & Swinburne University. 
           </Description>
           <ButtonGroup>
             <NextLink href="#early-access" passHref>

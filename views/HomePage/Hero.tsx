@@ -14,11 +14,10 @@ export default function Hero() {
   return (
     <HeroWrapper>
       <Contents>
-        <CustomOverTitle>the coolest, saas product you have ever seen</CustomOverTitle>
-        <Heading>Make your life easier with our SaaS</Heading>
+        <CustomOverTitle>unlocking knowledge, igniting minds</CustomOverTitle>
+        <Heading>flutterbeam: education meets innovation</Heading>
         <Description>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, tempora qui. Explicabo voluptate iure ipsum molestias
-          repudiandae perspiciatis nostrum praesentium, unde pariatur tempora magni rem. Necessitatibus facilis obcaecati ratione.
+        Flutterbeam is bridging the gap between education and innovation. Our cutting-edge solutions revolutionize the way individuals learn and acquire knowledge, offering a comprehensive range of interactive and engaging courses. With Flutterbeam, learners can access a vast array of subjects and skills from anywhere, anytime. Our innovative approach combines advanced technology, expert instructors, and personalized learning experiences to ensure each learner's success. Whether you're a student, professional, or lifelong learner, Flutterbeam is your gateway to a world where education meets innovation, inspiring you to thrive in an ever-evolving digital landscape.
         </Description>
         <CustomButtonGroup>
           <Button onClick={() => setIsModalOpened(true)}>

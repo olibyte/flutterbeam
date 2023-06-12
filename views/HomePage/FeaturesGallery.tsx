@@ -10,25 +10,25 @@ import { media } from 'utils/media';
 
 const TABS = [
   {
-    title: 'Find relevant media contacts - multiline title',
+    title: 'Comprehensive Course Catalog',
     description:
-      '<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam quidem ipsam ratione dicta quis cupiditate consequuntur laborum ducimus iusto velit.</p>',
+      '<p>Flutterbeam provides a vast and diverse course catalog encompassing a wide range of subjects and skills. From traditional academic disciplines to cutting-edge industry-specific courses, our platform offers a comprehensive selection that caters to the diverse learning needs of our users. We collaborate with expert instructors and educational institutions to curate high-quality content, ensuring that learners have access to relevant and up-to-date knowledge.</p>',
     imageUrl: '/demo-illustration-3.png',
     baseColor: '249,82,120',
     secondColor: '221,9,57',
   },
   {
-    title: 'Another amazing feature',
+    title: 'Interactive and Engaging Learning Experience',
     description:
-      '<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam quidem ipsam ratione dicta quis cupiditate consequuntur laborum ducimus iusto velit.</p>',
+      '<p>We believe that effective learning goes beyond static content delivery. Flutterbeam incorporates interactive and engaging elements into our e-learning platform to foster active participation and knowledge retention. Through features such as multimedia-rich lessons, quizzes, simulations, and gamification, we create an immersive learning environment that keeps learners motivated, promotes collaboration, and enhances their overall learning experience.</p>',
     imageUrl: '/demo-illustration-4.png',
     baseColor: '57,148,224',
     secondColor: '99,172,232',
   },
   {
-    title: 'And yet... another truly fascinating feature',
+    title: 'Personalized Learning Journeys',
     description:
-      '<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam quidem ipsam ratione dicta quis cupiditate consequuntur laborum ducimus iusto velit.</p>',
+      '<p>Recognizing that each learner has unique goals and preferences, Flutterbeam places a strong emphasis on personalized learning journeys. Our platform utilizes advanced algorithms and user data to provide personalized recommendations, adaptive assessments, and customized learning paths. Learners can progress at their own pace, focusing on areas that require more attention while being guided towards their desired outcomes. We strive to make learning flexible, tailored, and optimized for individual success.</p>',
     imageUrl: '/demo-illustration-5.png',
     baseColor: '88,193,132',
     secondColor: '124,207,158',
