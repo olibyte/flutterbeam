@@ -43,7 +43,7 @@
     "@next/bundle-analyzer": "^14.0.3",
     "@tinacms/cli": "^1.9.6",
     "@types/react": "^17.0.20",
-    "@types/react-mailchimp-subscribe": "^2.1.1",
+    "@types/react-mailchimp-subscribe": "^2.1.4",
     "@types/styled-components": "^5.1.26",
     "@types/swiper": "^6.0.0",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
