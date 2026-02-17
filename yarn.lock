@@ -2402,10 +2402,10 @@
   resolved "https://registry.yarnpkg.com/@n1ru4l/push-pull-async-iterable-iterator/-/push-pull-async-iterable-iterator-3.2.0.tgz#c15791112db68dd9315d329d652b7e797f737655"
   integrity sha512-3fkKj25kEjsfObL6IlKPAlHYPq/oYwUkkQ03zsTTiDjD7vg/RxjdiLeCydqtxHZP0JgsXL3D/X5oAkMGzuUp/Q==
 
-"@n8tb1t/use-scroll-position@^2.0.3":
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/@n8tb1t/use-scroll-position/-/use-scroll-position-2.0.3.tgz#207c54d584285cac0954d556964f83cf5774940b"
-  integrity sha512-6GO4FHVJTMI4jbRHborzemuL6B319qh2cVLOLj8DApJhjyT71eLgANbQ4bNKSZ51zBm3uJ3WmqnyNF17eSsDyw==
+"@n8tb1t/use-scroll-position@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@n8tb1t/use-scroll-position/-/use-scroll-position-4.0.0.tgz#156854f553cb3930afbb152c98a255cd9a20a182"
+  integrity sha512-4HFacs8tgdbuN6zFivYWWb9+9Ype+g8c6S8bw1/XzrGdbUpCAT+XyAznFIJ7ulZIsDt0Wzn1EURbXTsrsoX5Jw==
 
 "@next/bundle-analyzer@^16.1.6":
   version "16.1.6"
