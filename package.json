@@ -16,7 +16,7 @@
     "css-in-js-media": "^2.0.1",
     "date-fns": "^4.1.0",
     "gray-matter": "^4.0.3",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "next": "12.1.0",
     "nextjs-color-mode": "^1.0.5",
     "polished": "^4.3.1",
